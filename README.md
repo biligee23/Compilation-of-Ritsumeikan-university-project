@@ -5,7 +5,7 @@ This repository contains a collection of project reports I completed during my t
 ## Statistics Course Projects  
 
 ### Midterm Report  
-[Link to Report](#https://github.com/biligee23/Compilation-of-Ritsumeikan-university-project/blob/main/GR1_Final_Report_Biligsaikhan_Khurtsbayar.pdf)  
+[Link to Report](https://github.com/biligee23/Compilation-of-Ritsumeikan-university-project/blob/main/Statistics_Midterm_Poster_Biligsaikhan.pdf)  
 **Description:**  
 
 ### Final Report  
